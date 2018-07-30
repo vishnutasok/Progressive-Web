@@ -1,0 +1,8 @@
+{
+    "articles": [{
+        "title": "No Internet Connection Is Available",
+        "description": "Please Check Your Internet Connection",
+        "url": "",
+        "urlToImage": "noInternet.png"
+    }]
+}
